@@ -1,0 +1,19 @@
+body {
+  background-image: url('/a.png');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+.maindiv {
+  margin: auto;
+  padding:auto;
+  background-color: rgb(255, 249, 241);
+  height: 500px;
+  width: 950px;
+  border-radius: 20px;
+  opacity: 50%;
+}
